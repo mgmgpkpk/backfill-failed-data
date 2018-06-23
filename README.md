@@ -8,7 +8,7 @@ Failed data is like below.
  "esIndexName": "IndexName",
  "esDocumentId": "DocumentId",
  "esTypeName": "Typename",
- "rawData": "log data (encrypted by bas64)"
+ "rawData": "log data (encrypted by base64)"
 }
 ```
 
